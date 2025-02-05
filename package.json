@@ -1,0 +1,25 @@
+{
+  "name": "evm-bulk-send",
+  "version": "1.0.0",
+  "description": "CLI tool for bulk Ethereum distribution across multiple wallets",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ethereum",
+    "crypto",
+    "blockchain",
+    "wallet",
+    "bulk-transfer"
+  ],
+  "author": "github.com/baihaqism",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "ethers": "^6.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
